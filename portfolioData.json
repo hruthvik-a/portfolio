@@ -86,7 +86,7 @@
   },
   {
     "name": "Git",
-    "image": "https://picsum.photos/200/300",
+    "image": "https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg",
     "description": "Version Control",
     "level": "60"
   }
