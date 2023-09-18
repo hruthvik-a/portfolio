@@ -1,94 +1,94 @@
 {
-  projects:[
+  "projects":[
   {
-    name: "Spotify Clone",
-    image: "https://picsum.photos/200/300",
-    description: "This is the long descriptiuon that should be used",
+    "name": "Spotify Clone",
+    "image": "https://picsum.photos/200/300",
+    "description": "This is the long descriptiuon that should be used"
   },
   {
-    name: "Tenzies",
-    image: "https://picsum.photos/200/300",
-    description: "This is the long ",
+    "name": "Tenzies",
+    "image": "https://picsum.photos/200/300",
+    "description": "This is the long "
   },
   {
-    name: "Parking",
-    image: "https://picsum.photos/200/300",
-    description:
-      "This is the long descriptiuon that should be used for telling tech used",
-  },
+    "name": "Parking",
+    "image": "https://picsum.photos/200/300",
+    "description":
+      "This is the long descriptiuon that should be used for telling tech used"
+  }
 ],
-  backend:[
+  "backend":[
   {
-    name: "Express Js",
-    image: "https://picsum.photos/200/300",
-    description: "JSX, Hooks, Redux",
-    level: "72",
+    "name": "Express Js",
+    "image": "https://picsum.photos/200/300",
+    "description": "JSX, Hooks, Redux",
+    "level": "72"
   },
   {
-    name: "Node Js",
-    image: "https://picsum.photos/200/300",
-    description: "ES6, Clousures,Call Stack, Execution context",
-    level: "72",
+    "name": "Node Js",
+    "image": "https://picsum.photos/200/300",
+    "description": "ES6, Clousures,Call Stack, Execution context",
+    "level": "72"
   },
   {
-    name: "Django",
-    image: "https://picsum.photos/200/300",
-    description: "ES6, Clousures,Call Stack, Execution context",
-    level: "72",
-  },
+    "name": "Django",
+    "image": "https://picsum.photos/200/300",
+    "description": "ES6, Clousures,Call Stack, Execution context",
+    "level": "72"
+  }
 ],
-    backend:[
+    "frontend":[
   {
-    name: "React JS",
-    image: "https://picsum.photos/200/300",
-    description: "JSX, Hooks, Redux",
-    level: "72",
+    "name": "React JS",
+    "image": "https://picsum.photos/200/300",
+    "description": "JSX, Hooks, Redux",
+    "level": "72"
   },
   {
-    name: "Javascript",
-    image: "https://picsum.photos/200/300",
-    description: "ES6, Clousures,Call Stack, Execution context",
-    level: "72",
+    "name": "Javascript",
+    "image": "https://picsum.photos/200/300",
+    "description": "ES6, Clousures,Call Stack, Execution context",
+    "level": "72"
   },
   {
-    name: "HTML",
-    image: "https://picsum.photos/200/300",
-    description: "HTML5,HTML Forms,HTML Tables",
-    level: "60",
+    "name": "HTML",
+    "image": "https://picsum.photos/200/300",
+    "description": "HTML5,HTML Forms,HTML Tables",
+    "level": "60"
   },
   {
-    name: "CSS",
-    image: "https://picsum.photos/200/300",
-    description: "This is the description",
-    level: "60",
-  },
+    "name": "CSS",
+    "image": "https://picsum.photos/200/300",
+    "description": "This is the description",
+    "level": "60"
+  }
 ],
-    database: [
+    "database": [
   {
-    name: "PostgreSQL",
-    image: "https://picsum.photos/200/300",
-    description: "This is the description",
-    level: "60",
+    "name": "PostgreSQL",
+    "image": "https://picsum.photos/200/300",
+    "description": "This is the description",
+    "level": "60"
   },
   {
-    name: "MongoDB",
-    image: "https://picsum.photos/200/300",
-    description: "This is the description",
-    level: "60",
-  },
+    "name": "MongoDB",
+    "image": "https://picsum.photos/200/300",
+    "description": "This is the description",
+    "level": "60"
+  }
 ],
-    devops: [
+    "devops": [
   {
-    name: "Docker",
-    image: "https://picsum.photos/200/300",
-    description: "This is the description",
-    level: "60",
+    "name": "Docker",
+    "image": "https://picsum.photos/200/300",
+    "description": "This is the description",
+    "level": "60"
   },
   {
-    name: "git",
-    image: "https://picsum.photos/200/300",
-    description: "This is the description",
-    level: "60",
-  },
+    "name": "git",
+    "image": "https://picsum.photos/200/300",
+    "description": "This is the description",
+    "level": "60"
+  }
 ]
 }
