@@ -1,6 +1,94 @@
 {
-  "name": "Tenzies",
-  "lockfileVersion": 2,
-  "requires": true,
-  "packages": {}
+  projects:[
+  {
+    name: "Spotify Clone",
+    image: "https://picsum.photos/200/300",
+    description: "This is the long descriptiuon that should be used",
+  },
+  {
+    name: "Tenzies",
+    image: "https://picsum.photos/200/300",
+    description: "This is the long ",
+  },
+  {
+    name: "Parking",
+    image: "https://picsum.photos/200/300",
+    description:
+      "This is the long descriptiuon that should be used for telling tech used",
+  },
+],
+  backend:[
+  {
+    name: "Express Js",
+    image: "https://picsum.photos/200/300",
+    description: "JSX, Hooks, Redux",
+    level: "72",
+  },
+  {
+    name: "Node Js",
+    image: "https://picsum.photos/200/300",
+    description: "ES6, Clousures,Call Stack, Execution context",
+    level: "72",
+  },
+  {
+    name: "Django",
+    image: "https://picsum.photos/200/300",
+    description: "ES6, Clousures,Call Stack, Execution context",
+    level: "72",
+  },
+],
+    backend:[
+  {
+    name: "React JS",
+    image: "https://picsum.photos/200/300",
+    description: "JSX, Hooks, Redux",
+    level: "72",
+  },
+  {
+    name: "Javascript",
+    image: "https://picsum.photos/200/300",
+    description: "ES6, Clousures,Call Stack, Execution context",
+    level: "72",
+  },
+  {
+    name: "HTML",
+    image: "https://picsum.photos/200/300",
+    description: "HTML5,HTML Forms,HTML Tables",
+    level: "60",
+  },
+  {
+    name: "CSS",
+    image: "https://picsum.photos/200/300",
+    description: "This is the description",
+    level: "60",
+  },
+],
+    database: [
+  {
+    name: "PostgreSQL",
+    image: "https://picsum.photos/200/300",
+    description: "This is the description",
+    level: "60",
+  },
+  {
+    name: "MongoDB",
+    image: "https://picsum.photos/200/300",
+    description: "This is the description",
+    level: "60",
+  },
+],
+    devops: [
+  {
+    name: "Docker",
+    image: "https://picsum.photos/200/300",
+    description: "This is the description",
+    level: "60",
+  },
+  {
+    name: "git",
+    image: "https://picsum.photos/200/300",
+    description: "This is the description",
+    level: "60",
+  },
+]
 }
