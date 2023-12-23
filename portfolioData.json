@@ -26,7 +26,7 @@
   },
   {
     "name": "Node Js",
-    "image": "https://picsum.photos/200/300",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
     "description": "ES6, Clousures,Call Stack, Execution context",
     "level": "72"
   },
