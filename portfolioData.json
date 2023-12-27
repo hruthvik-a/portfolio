@@ -20,7 +20,7 @@
   "backend":[
   {
     "name": "Express Js",
-    "image": "https://picsum.photos/200/300",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png",
     "description": "API Routing",
     "level": "72"
   },
@@ -32,7 +32,7 @@
   },
   {
     "name": "Django",
-    "image": "https://picsum.photos/200/300",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg",
     "description": "RESTFul API, Django Rest Framework(DRF)",
     "level": "72"
   }
@@ -40,25 +40,25 @@
     "frontend":[
   {
     "name": "React JS",
-    "image": "https://picsum.photos/200/300",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
     "description": "JSX, Hooks, Redux",
     "level": "72"
   },
   {
     "name": "Javascript",
-    "image": "https://picsum.photos/200/300",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg",
     "description": "ES6, Clousures,Call Stack, Execution context",
     "level": "72"
   },
   {
     "name": "HTML",
-    "image": "https://picsum.photos/200/300",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg",
     "description": "HTML5,HTML Forms,HTML Tables",
     "level": "60"
   },
   {
     "name": "CSS",
-    "image": "https://picsum.photos/200/300",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg",
     "description": "CSS SCSS",
     "level": "60"
   }
@@ -66,13 +66,13 @@
     "database": [
   {
     "name": "PostgreSQL",
-    "image": "https://picsum.photos/200/300",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg",
     "description": "SQL database",
     "level": "60"
   },
   {
     "name": "MongoDB",
-    "image": "https://picsum.photos/200/300",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg",
     "description": "NoSQL Database",
     "level": "60"
   }
